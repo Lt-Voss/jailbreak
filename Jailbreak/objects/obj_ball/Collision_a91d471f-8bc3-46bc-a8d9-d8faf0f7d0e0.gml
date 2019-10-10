@@ -3,6 +3,6 @@
 block1Strike = 0;
 block1Strike++;
 if (block1Strike = 2) {
-	instance_destroy(instance_id_get(obj_block1));
+	instance_destroy(instance_nearest(x,y,obj_block1));
 }
 direction = direction*(-1);

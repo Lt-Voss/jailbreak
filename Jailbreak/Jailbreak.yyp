@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "4ba37b7e-24b8-458a-97cc-c4bc840ca93b",
+            "Value": {
+                "id": "4d242ab7-8514-4c4e-8845-a82d83c1956f",
+                "resourcePath": "sprites\/spr_borderwallbottom\/spr_borderwallbottom.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "58cee8f5-a8c0-432c-a00b-06b2023b7021",
             "Value": {
                 "id": "32978483-83e5-4cd0-a669-416c41524642",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "7b7499dd-8a9c-4d5a-b60a-cbd590644a47",
+            "Value": {
+                "id": "54a38a36-2bb1-4baf-8985-7a5f7ccbfecc",
+                "resourcePath": "objects\/obj_borderwallvert\/obj_borderwallvert.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7ca564f6-8f32-49ef-acf0-c631ad806a04",
             "Value": {
                 "id": "3484daaa-3746-441a-ae9d-54d8e16daa37",
@@ -188,6 +204,14 @@
                 "id": "7c149831-a3b3-4ed2-bd5d-7101b2cc7442",
                 "resourcePath": "sprites\/spr_block2\/spr_block2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "97d2f477-37ac-4753-adfc-2696c1ae2db0",
+            "Value": {
+                "id": "6e72eb0c-7738-422a-971b-e73a4c75088b",
+                "resourcePath": "objects\/obj_borderwallbottom\/obj_borderwallbottom.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -228,6 +252,14 @@
                 "id": "475cc529-653e-4648-993d-7c6eb4650e99",
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ca593538-6391-407d-bde0-b5c3aee8ab5b",
+            "Value": {
+                "id": "3252c52b-8c7f-4f43-81d7-85f7867d57c2",
+                "resourcePath": "sprites\/spr_borderwallvert\/spr_borderwallvert.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
